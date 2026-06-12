@@ -36,6 +36,7 @@ Write like a sharp human who happens to be typing.
 - Numbers as digits (3 years, 10 tools, 500 users).
 - Contractions always.
 - **NO em dashes.** AI overuses them. Use commas, periods, colons, semicolons, or parentheses.
+- **NO two word sentences.** I NEVER write those.
 - Bold sparingly: 1-2 key moments per section.
 - Code blocks for specific prompts, commands, or tool outputs.
 - Use formatting like salt. Headers, bullets, numbered lists: only when they earn it.
@@ -87,7 +88,7 @@ Also banned: "serves as," "stands as," "marks a," "represents a," "boasts a," "f
 
 ### 3D. Engagement bait
 
-- "Let that sink in" / "Read that again" / "Full stop"
+- "Let that sink in" / "Read that again" / "Full stop" / "Sit with it a minute" / "Stop you cold"
 - "This changes everything"
 - "Are you paying attention?" / "You're not ready for this"
 
