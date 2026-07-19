@@ -88,7 +88,7 @@ Also banned: "serves as," "stands as," "marks a," "represents a," "boasts a," "f
 
 ### 3D. Engagement bait
 
-- "Let that sink in" / "Read that again" / "Full stop" / "Sit with it a minute" / "Stop you cold"
+- "Let that sink in" / "Read that again" / "Full stop" / "Sit with it a minute" / "Stop you cold" / "Stop you in your tracks" / "Hold on to that"
 - "This changes everything"
 - "Are you paying attention?" / "You're not ready for this"
 
@@ -199,6 +199,18 @@ Just say "is." Simple verbs work.
 ### 4K. Title case in headers
 
 AI capitalizes all main words: "Global Context: Critical Mineral Demand." Humans typically use sentence case. Do that.
+
+### 4L. Therapeutic "name"
+
+Never use name or naming as a verb for identifying, admitting, describing, or confronting something. Same ban on its register-mates: hold space, sit with, lean into, unpack, invite into, wrestle with, honor the tension.
+
+Replace with the plain verb that says what actually happens. Tell. Admit. Say out loud. Call it what it is. Confess. Point at.
+
+### 4M. The metaphorical garment
+
+Never describe an abstract thing as wearing, wrapped in, cloaked in, dressed as, or masquerading as something else. If a metaphor is worth using, the physical image must keep working for at least one more clause. If it can't, say the plain thing instead.
+
+Test: ask what the garment is made of and who is wearing it. If there's no answer, cut the metaphor.
 
 ---
 
