@@ -76,6 +76,7 @@ Also banned: "serves as," "stands as," "marks a," "represents a," "boasts a," "f
 - "In this article, I will..." (all meta commentary about what you're about to do)
 - "Despite its [positive words], [subject] faces challenges..."
 - "Challenges and Future Prospects" as a section header
+- "Doing the heavy lifting" / "does the heavy lifting"
 
 ### 3C. Dead transitions
 
@@ -202,7 +203,7 @@ AI capitalizes all main words: "Global Context: Critical Mineral Demand." Humans
 
 ### 4L. Therapeutic "name"
 
-Never use name or naming as a verb for identifying, admitting, describing, or confronting something. Same ban on its register-mates: hold space, sit with, lean into, unpack, invite into, wrestle with, honor the tension.
+Never use name or naming as a verb for identifying, admitting, describing, or confronting something. Same ban on its register-mates: hold space, sit with, lean into, unpack, invite into, wrestle with, honor the tension. Also banned: "worth naming" as a hedge to flag something without committing to a claim about it.
 
 Replace with the plain verb that says what actually happens. Tell. Admit. Say out loud. Call it what it is. Confess. Point at.
 
