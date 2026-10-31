@@ -78,6 +78,7 @@ Also banned: "serves as," "stands as," "marks a," "represents a," "boasts a," "f
 - "Challenges and Future Prospects" as a section header
 - "Doing the heavy lifting" / "does the heavy lifting"
 - "Said it out loud" (just say "stated it clearly" or "said it plainly")
+- "Said the quiet part out loud"
 
 ### 3C. Dead transitions
 
