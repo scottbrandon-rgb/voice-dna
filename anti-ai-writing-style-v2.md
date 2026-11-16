@@ -215,6 +215,16 @@ Never describe an abstract thing as wearing, wrapped in, cloaked in, dressed as,
 
 Test: ask what the garment is made of and who is wearing it. If there's no answer, cut the metaphor.
 
+### 4N. The premature "before"
+
+Never pad a plain statement with "before [it/he/she] ever/can [milestone]" to fake chronological depth. The pattern: state a fact, then tack on a timing clause that adds no real information, so the sentence feels profound instead of just sitting there as a fact.
+
+Bad: "Titus is honored before he can lift his own head." Good: "Titus is honored."
+
+Bad: "Coy is an Old English word, and before it ever meant shy it meant quiet, still, at rest." Good: "Coy is an Old English word that means quiet, still, at rest."
+
+Test: delete the "before" clause. If the sentence loses no information, the clause was dilution, not depth.
+
 ---
 
 ## 5. ANTI-OVERFITTING GUIDE
